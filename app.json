@@ -1,4 +1,11 @@
 {
   "name": "TestGlassboxIntegration",
-  "displayName": "TestGlassboxIntegration"
+  "displayName": "TestGlassboxIntegration",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "1b36b813-b3d0-4119-b54d-0ac4631aaf0a"
+      }
+    }
+  }
 }
